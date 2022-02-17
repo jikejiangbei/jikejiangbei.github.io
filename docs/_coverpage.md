@@ -11,4 +11,4 @@
 - 众多主题
 
 [GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](zh-cn/guide)
+[Get Started](用docsify搭建笔记博客/用docsify搭建笔记博客)
