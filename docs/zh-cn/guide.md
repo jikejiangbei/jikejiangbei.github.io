@@ -15,7 +15,8 @@ https://thinkaboutai.github.io/#/
 
 https://docsify.js.org/#/
 
-![1639061839829](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1639061839829.png)
+![docsify官网首页.png](../images/homePage/docsify官网首页.png)
+
 
 # 快速开始
 
