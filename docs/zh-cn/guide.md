@@ -6,6 +6,11 @@ https://luxian.yupi.icu/#/
 
 https://thinkaboutai.github.io/#/
 
+陌溪的学习笔记：
+
+- 在线文档：<http://note.moguit.cn/>
+- 备用地址：<http://moxi159753.gitee.io/learningnotes/>
+
 # docsify官网
 
 https://docsify.js.org/#/
