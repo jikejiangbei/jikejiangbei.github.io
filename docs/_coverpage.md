@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](黄蓉.jpg)
+<img width="180px" style="border-radius: 50%" bor src="./黄蓉.jpg">
 
 # docsify <small>3.5</small>
 

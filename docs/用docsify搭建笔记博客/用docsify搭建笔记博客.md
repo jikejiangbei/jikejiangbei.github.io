@@ -15,7 +15,7 @@ https://thinkaboutai.github.io/#/
 
 https://docsify.js.org/#/
 
-![docsify官网首页.png](../images/homePage/docsify官网首页.png)
+![docsify官网首页.png](./images/docsify官网首页.png)
 
 
 # 快速开始
@@ -30,7 +30,7 @@ npm i docsify-cli -g
 
 新建一个目录作为项目，如F:\\docsifyLearning
 
-![1639062854305](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1639062854305.png)
+![1639062854305](./images/1639062854305.png)
 
 如果想在项目的 `./docs` 目录里写文档，直接通过 `init` 初始化项目。
 
@@ -103,7 +103,7 @@ docsify serve docs
 
 # 定制导航栏
 
-![1639067384418](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1639067384418.png)
+![1639067384418](./images/1639067384418.png)
 
 1.配置 loadNavbar: true选项
 
@@ -125,37 +125,37 @@ Github Pages官网入口：<https://pages.github.com/>
 
 1.创建一个仓库
 
-![1639116099025](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1639116099025.png)
+![1639116099025](./images/1639116099025.png)
 
 
 
 ![1639116160963](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1639116160963.png)
 
-![1639116435977](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1639116435977.png)
+![1639116435977](./images/1639116435977.png)
 
 
 
 复制仓库的地址，git clone到本地，如F:\docify-learning下面
 
-![1639116639398](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1639116639398.png)
+![1639116639398](./images/1639116639398.png)
 
-![1639116881989](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1639116881989.png)
+![1639116881989](./images/1639116881989.png)
 
 将docs文件夹复制到F:\docify-learning\jikejiangbei.github.io下面。
 
 可以用VSCode打开项目,VSCode集成了Git插件。VSCode或命令行中将文件推送到仓库中就可以访问了。
 
-![1639156237808](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1639156237808.png)
+![1639156237808](./images/1639156237808.png)
 
-![1639156382819](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1639156382819.png)
+![1639156382819](./images/1639156382819.png)
 
-![1639117730427](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1639117730427.png)
+![1639117730427](./images/1639117730427.png)
 
-![1639117894961](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1639117894961.png)
+![1639117894961](./images/1639117894961.png)
 
 
 
-![1639117959202](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1639117959202.png)
+![1639117959202](./images/1639117959202.png)
 
 
 
