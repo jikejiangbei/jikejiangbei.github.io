@@ -20,7 +20,7 @@ https://docsify.js.org/#/
 
 # 快速开始
 
-## 1.全局安装 `docsify-cli` 工具
+## 1.全局安装 `docsify-cli` 工具，已安装好Node.js
 
 ```bash
 npm i docsify-cli -g
