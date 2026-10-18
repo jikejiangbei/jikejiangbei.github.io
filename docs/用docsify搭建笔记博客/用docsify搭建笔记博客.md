@@ -23,7 +23,7 @@ https://docsify.js.org/#/
 ## 1.全局安装 `docsify-cli` 工具，已安装好Node.js
 
 ```bash
-npm i docsify-cli -g
+npm i -g docsify-cli --ignore-scripts
 ```
 
 ## 2.初始化项目
